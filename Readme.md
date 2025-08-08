@@ -99,12 +99,6 @@ The app will be available at: [http://localhost:8081](http://localhost:8081)
 
 ---
 
-## 📸 Screenshots
-
-> _Add screenshots of your dashboard and UI here for better visual documentation._
-
----
-
 ## 🤝 Contributing
 
 Pull requests are welcome!  
