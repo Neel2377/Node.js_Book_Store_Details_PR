@@ -1,6 +1,6 @@
 const express = require('express');
 const app = express();
-const PORT = 8081;
+const PORT = process.env.PORT || 8081;
 const db = require('./config/db');
 const bodyParser = require('body-parser');
 db();
