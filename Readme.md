@@ -67,7 +67,7 @@ Start the server:
 ```
 npm start
 ```
-The app will run at `https://node-js-book-store-details-pr.onrender.com/` by default.
+The app will run Link: https://node-js-book-store-details-pr.onrender.com/
 
 ## Usage
 - Access the dashboard in your browser.
