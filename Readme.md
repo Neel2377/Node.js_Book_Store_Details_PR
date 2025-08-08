@@ -22,7 +22,7 @@
 - [EJS (Embedded JavaScript Templates)](https://ejs.co/)
 - [Bootstrap](https://getbootstrap.com/)
 - [DataTables](https://datatables.net/)
-- [MySQL](https://www.mysql.com/) *(or compatible DB)*
+- [MongoDBL](https://www.mongodb.com/) *(or compatible DB)*
 
 ---
 
